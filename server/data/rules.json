@@ -1,0 +1,30 @@
+{
+  "title": "CPCB E-Waste (Management) Rules, 2022 Regulatory Framework",
+  "authority": "Central Pollution Control Board (CPCB) & Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "rules": [
+    {
+      "clause": "Rule 4 & Schedule III - Mandatory EPR Targets",
+      "summary": "Under Rule 4 of the E-Waste (Management) Rules, 2022, all registered Manufacturers, Producers, Recyclers, and Refurbishers must achieve phase-wise Extended Producer Responsibility (EPR) recycling targets. The recycling quota is set at 60% of annual e-waste generated for FY 2023-24 and FY 2024-25, increasing to 70% for FY 2025-26 & 2026-27, and reaching 80% from FY 2027-28 onward."
+    },
+    {
+      "clause": "Rule 14 & CPCB Guidelines - Registration Fee Tiers",
+      "summary": "Registration fees on the official CPCB EPR portal are slab-based, derived directly from the calculated EPR Recycling Target (in Metric Tonnes). Fees range from ₹2,500 for targets below 50 MT, up to ₹15,00,000 for large-scale operations exceeding 5,000 MT per annum."
+    },
+    {
+      "clause": "Section 16 & Audit Protocol - Compliance Verification",
+      "summary": "Compliance status ('Compliant' vs 'Non-Compliant') is calculated by validating actual recycled e-waste tonnage against the legally mandated EPR target (MT). Non-compliant entities face environmental compensation penalties and audit reviews under CPCB EPR portal verification mechanisms."
+    }
+  ],
+  "fee_structure": [
+    { "range": "Target < 50 MT", "fee": "₹2,500" },
+    { "range": "50 MT <= Target < 100 MT", "fee": "₹7,500" },
+    { "range": "100 MT <= Target < 1,000 MT", "fee": "₹1,50,000" },
+    { "range": "1,000 MT <= Target < 5,000 MT", "fee": "₹10,00,000" },
+    { "range": "Target >= 5,000 MT", "fee": "₹15,00,000" }
+  ],
+  "target_percentages": [
+    { "fy": "2023–24 & 2024–25", "percentage": "60%" },
+    { "fy": "2025–26 & 2026–27", "percentage": "70%" },
+    { "fy": "2027–28 onward", "percentage": "80%" }
+  ]
+}

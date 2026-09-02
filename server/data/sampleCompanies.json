@@ -1,0 +1,47 @@
+[
+  {
+    "id": "comp-1",
+    "name": "Dixon Technologies",
+    "entity_type": "Producer",
+    "annual_waste_mt": 5200,
+    "actual_recycled_mt": 4200,
+    "established_year": 1993,
+    "location": "Noida, UP"
+  },
+  {
+    "id": "comp-2",
+    "name": "Foxconn India",
+    "entity_type": "Manufacturer",
+    "annual_waste_mt": 1250,
+    "actual_recycled_mt": 700,
+    "established_year": 2006,
+    "location": "Sriperumbudur, Tamil Nadu"
+  },
+  {
+    "id": "comp-3",
+    "name": "Tata Electronics",
+    "entity_type": "Manufacturer",
+    "annual_waste_mt": 480,
+    "actual_recycled_mt": 350,
+    "established_year": 2020,
+    "location": "Hosur, Tamil Nadu"
+  },
+  {
+    "id": "comp-4",
+    "name": "Kaynes Technology",
+    "entity_type": "Producer",
+    "annual_waste_mt": 85,
+    "actual_recycled_mt": 40,
+    "established_year": 1988,
+    "location": "Mysuru, Karnataka"
+  },
+  {
+    "id": "comp-5",
+    "name": "Centum Electronics",
+    "entity_type": "Refurbisher",
+    "annual_waste_mt": 30,
+    "actual_recycled_mt": 22,
+    "established_year": 1994,
+    "location": "Bengaluru, Karnataka"
+  }
+]

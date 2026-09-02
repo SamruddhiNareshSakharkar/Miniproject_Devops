@@ -1,0 +1,30 @@
+{
+  "name": "ewaste-epr-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "E-Waste Registration & Recycling Target Calculator under CPCB Rules 2022",
+  "scripts": {
+    "dev": "vite",
+    "dev:all": "concurrently \"npm run server\" \"vite\"",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server/index.js",
+    "start": "node server/index.js",
+    "test": "node server/test_server.js"
+  },
+
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "lucide-react": "^1.38.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^4.3.0",
+    "concurrently": "^8.2.2",
+    "vite": "^5.4.0"
+  }
+}
